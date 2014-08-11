@@ -1,0 +1,4 @@
+
+
+放大缩小的Demo  file:///E:/gojs/samples/contentAlign.html
+组合：评论工具栏  file:///E:/gojs/samples/seatingChart.html.html
